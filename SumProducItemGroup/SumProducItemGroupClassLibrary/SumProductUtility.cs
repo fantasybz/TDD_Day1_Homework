@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace SumProducItemGroup
+namespace SumProducItemGroupClassLibrary
 {
     public static class SumProductUtility
     {
@@ -38,4 +38,3 @@ namespace SumProducItemGroup
         }
     }
 }
-
